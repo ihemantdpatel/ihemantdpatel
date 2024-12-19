@@ -39,7 +39,7 @@ Welcome to my GitHub profile! 🚀 I’m a passionate full-stack developer with 
 
 I am a versatile full-stack developer with expertise across a wide range of modern technologies, spanning frontend frameworks, backend systems, database management, cloud services, and API integration. With a strong emphasis on scalability, security, and performance, I specialize in crafting efficient, user-centric solutions that meet the demands of today’s fast-paced digital landscape.  
 
-I thrive on solving complex problems, learning new technologies, and collaborating with teams to deliver impactful projects. When I’m not coding, I enjoy contributing to open-source projects and exploring innovative solutions to everyday challenges.  
+I thrive on solving complex problems, learning new technologies, and collaborating with teams to deliver impactful projects. When I’m not coding, I enjoy reading, work with numbers ( accouting, stock analaysis) etc.  
 
 Let’s create something amazing together! 🚀  
 
