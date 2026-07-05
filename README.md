@@ -1,51 +1,111 @@
-# 👋 Hi, I'm Hemant!  
+# 👋 Hi, I'm Hemant Patel
 
-Welcome to my GitHub profile! 🚀 I’m a passionate full-stack developer with a strong focus on building scalable, efficient, and user-friendly applications. Here's a glimpse of the technologies I work with:  
+🚀 Senior Full Stack Engineer with 18+ years of experience building scalable web applications, cloud-native platforms, and secure APIs. I enjoy solving complex engineering problems, designing maintainable systems, and leveraging AI to accelerate software development.
 
----
+## 🤖 AI Engineering
 
-## 🌐 Frontend  
-- **Frameworks & Libraries**: React, Redux  
-- **Languages**: JavaScript, TypeScript  
+I actively use AI to improve engineering productivity and software quality.
 
-## ⚙️ Backend  
-- **Languages & Frameworks**:  
-  - PHP: Symfony, Laravel, Yii 2, Slim  
-  - Ruby: Ruby on Rails  
-  - Python: Flask, Django
-  - NodeJS: Express  
+**AI-Assisted Development**
 
-## 💾 Database Management  
-- **Relational Databases**: MySQL, PostgreSQL  
-- **NoSQL**: MongoDB, DynamoDB  
-
-## ☁️ Cloud Expertise  
-- **AWS**: Lambda, S3, EC2, RDS  
-- **GCP**: Google Cloud Functions (GCF)  
-
-## 📡 Microservices & API Integration  
-- **Technologies**: OAuth2, JWT, REST API, OpenID Connect, GraphQL, SSO  
-
-## 🛠️ Message Queues & Caching  
-- RabbitMQ, Redis  
-
-## 🧪 Testing & Quality Assurance  
-- **Testing Frameworks**: PHPUnit, RSpec, Pytest  
-- **End-to-End Testing**: Playwright, Jest  
+* Claude Code
+* GitHub Copilot
+* Prompt Engineering
+* AI-assisted development workflows
+* AI-assisted code reviews
+* AI-assisted debugging
+* AI-assisted test generation
+* LLM API Integration
+* Retrieval-Augmented Generation (RAG)
+* Model Context Protocol (MCP)
 
 ---
 
-## 🚀 About Me  
+## 💻 Tech Stack
 
-I am a versatile full-stack developer with expertise across a wide range of modern technologies, spanning frontend frameworks, backend systems, database management, cloud services, and API integration. With a strong emphasis on scalability, security, and performance, I specialize in crafting efficient, user-centric solutions that meet the demands of today’s fast-paced digital landscape.  
+### 🌐 Frontend
 
-I thrive on solving complex problems, learning new technologies, and collaborating with teams to deliver impactful projects. When I’m not coding, I enjoy reading, work with numbers ( accounting, stock analaysis) etc.  
+* React
+* Redux
+* JavaScript (ES6+)
+* TypeScript
+* HTML5 / CSS3 / BEM
 
-Let’s create something amazing together! 🚀  
+### ⚙️ Backend
+
+* PHP (Symfony, Laravel, Yii2, Slim)
+* Python (Flask, Django)
+* Node.js (Express)
+* .NET
+
+### 💾 Databases
+
+* MySQL
+* PostgreSQL
+* MongoDB
+* DynamoDB
+* Redis
+
+### ☁️ Cloud & DevOps
+
+* AWS (Lambda, EC2, S3, RDS, SQS)
+* Google Cloud Platform
+* Docker
+* Kubernetes
+* CI/CD
+* Git
+
+### 🏗 Architecture & Integration
+
+* REST APIs
+* GraphQL
+* OAuth2
+* JWT
+* OpenID Connect (OIDC)
+* Single Sign-On (SSO)
+* Microservices
+* Event-Driven Architecture
+
+### 📨 Messaging & Streaming
+
+* RabbitMQ
+* Apache Kafka
+* Redis
+
+### 🧪 Testing & Quality
+
+* PHPUnit
+* Jest
+* Playwright
+* Pytest
+* Test Automation
+* Test-Driven Development (TDD)
 
 ---
 
-## 📫 Let's Connect  
-- **LinkedIn**: [[LinkedIn Profile]  ](https://www.linkedin.com/in/ihemantpatel/)
+## 🚀 About Me
 
-Feel free to check out my repositories and reach out if you’d like to collaborate! 😊  
+I enjoy designing and building scalable software that is reliable, secure, and easy to maintain.
+
+My experience spans modern frontend development, backend systems, cloud infrastructure, distributed architectures, and API design. Recently I've been focusing on integrating Large Language Models (LLMs) into real-world applications and adopting AI-assisted engineering practices to improve development velocity and code quality.
+
+Outside of software engineering, I enjoy reading, learning about accounting and investing, and exploring data-driven decision making.
+
+---
+
+## 🌱 Currently Exploring
+
+* AI-powered developer tooling
+* Agentic AI applications
+* MCP (Model Context Protocol)
+* Advanced Retrieval-Augmented Generation (RAG)
+* LLM orchestration
+* Production AI systems
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/ihemantpatel/
+
+Thanks for visiting! Feel free to explore my repositories, open an issue, or reach out if you'd like to collaborate.
